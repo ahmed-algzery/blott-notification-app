@@ -15,7 +15,7 @@ This Flutter application showcases a notification prompt that mimics the iOS sty
 
 | Splash | LegalName1 | LegalName2 | Notification Request1 | Notification Request2 | News Screen |
 |--------|------------|------------|-----------------------|-----------------------|-------------|
-| ![Splash](screenshots/1.png) | ![LegalName1](screenshots/2.png) | ![LegalName2](screenshots/3.png) | ![Notification Request1](screenshots/4.png) | ![Notification Request2](screenshots/5) | ![Blott Screen](screenshots/6.png) |
+| ![Splash](screenshots/1.png) | ![LegalName1](screenshots/2.png) | ![LegalName2](screenshots/3.png) | ![Notification Request1](screenshots/4.png) | ![Notification Request2](screenshots/5.png) | ![Blott Screen](screenshots/6.png) |
 
 
 ## Getting Started
